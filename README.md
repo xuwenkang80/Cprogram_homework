@@ -1,0 +1,3 @@
+classexercise为课堂上编写的程序
+thqexercise为课本上所布置的各个习题的作业，目前已完成了前3章
+debugTools中包含了一些借助ai编写的调试工具
